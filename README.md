@@ -12,7 +12,7 @@ Home security is a vital concern for every homeowner. With the advancement of te
 ### System Architecture
  
 - Sensor: IR sensor
-- Cloud Platform: Django Rest Framework
+- Cloud Platform: Django
 - Dashboard: Grafana 
 
 ![Flowchart](https://user-images.githubusercontent.com/117158036/214210716-55fcaa21-d0f9-484f-9eb5-34d029d42ec2.jpg)
